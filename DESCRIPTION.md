@@ -72,7 +72,7 @@ data {
 ```
 
 
-## Codes et status réponses
+## Codes et vérification status réponses
 
 ```python
 POST https://sms.mtncongo.net/api/sms/
